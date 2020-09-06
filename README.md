@@ -13,3 +13,4 @@
 ![internal css](https://user-images.githubusercontent.com/70091044/92334528-757bd880-f097-11ea-9bb3-5dccc00771fc.PNG)
 ## CSS Selectors
 ### There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document. 
+![selectors](https://user-images.githubusercontent.com/70091044/92334546-c1c71880-f097-11ea-8ea3-b0b87e8c8222.PNG)
